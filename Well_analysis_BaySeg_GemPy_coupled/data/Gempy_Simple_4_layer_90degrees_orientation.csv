@@ -1,0 +1,5 @@
+X,Y,Z,azimuth,dip,polarity,formation
+75,75,50,0,180,1,Layer 1
+75,125,100,0,180,1,Layer 2
+125,75,150,0,180,1,Layer 4
+125,125,200,0,180,1,Layer 3
